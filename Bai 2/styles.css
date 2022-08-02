@@ -1,5 +1,9 @@
 
 
+body> span{
+    border: solid 2px black;
+}
+
 button{
     background-color: blueviolet;
     color: white;
