@@ -99,7 +99,7 @@ console.log(family);
 
 // //HW4
 
-let obj = {
+let obj2 = {
   foo: { a: "hello", b: "world" },
   bar: ["example", "mem", null, { xyz: 6 }, 88],
   qux: [4, 8, 12]
